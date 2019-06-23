@@ -4476,6 +4476,7 @@ var author$project$Main$sns = F3(
 				]));
 	});
 var author$project$Main$github = A2(author$project$Main$sns, 'GitHub: ', 'https://github.com/');
+var author$project$Main$linkedin = A2(author$project$Main$sns, 'LikedIn: ', 'https://www.linkedin.com/in/');
 var author$project$Main$twitter = A2(author$project$Main$sns, 'Twitter: ', 'https://twitter.com/');
 var elm$html$Html$h1 = _VirtualDom_node('h1');
 var elm$html$Html$p = _VirtualDom_node('p');
@@ -4494,6 +4495,7 @@ var author$project$Main$myself = A2(
 			author$project$Main$email('takeo.bono@gmail.com'),
 			author$project$Main$github('bonotake'),
 			author$project$Main$twitter('bonotake'),
+			author$project$Main$linkedin('takeo-imai-57985216'),
 			A2(
 			elm$html$Html$p,
 			_List_Nil,

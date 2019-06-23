@@ -24,6 +24,9 @@ twitter : String -> Html msg
 twitter =
     sns "Twitter: " "https://twitter.com/"
 
+linkedin =
+    sns "LikedIn: " "https://www.linkedin.com/in/"
+
 portrait =
     img [ src "images/self_portrait.JPG" ] []
 
@@ -33,6 +36,7 @@ myself =
         email "takeo.bono@gmail.com",
         github "bonotake",
         twitter "bonotake",
+        linkedin "takeo-imai-57985216",
         p [] [
             text "I'm a software engineer and a researcher at ",
             a [ href "https://idein.jp/" ] [ text "Idein Inc." ],
