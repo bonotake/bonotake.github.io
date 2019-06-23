@@ -4362,38 +4362,218 @@ var elm$virtual_dom$VirtualDom$toHandlerInt = function (handler) {
 			return 3;
 	}
 };
-var elm$html$Html$div = _VirtualDom_node('div');
-var elm$html$Html$h1 = _VirtualDom_node('h1');
-var elm$html$Html$h2 = _VirtualDom_node('h2');
-var elm$html$Html$p = _VirtualDom_node('p');
+var elm$html$Html$a = _VirtualDom_node('a');
 var elm$html$Html$section = _VirtualDom_node('section');
 var elm$virtual_dom$VirtualDom$text = _VirtualDom_text;
 var elm$html$Html$text = elm$virtual_dom$VirtualDom$text;
+var elm$json$Json$Encode$string = _Json_wrap;
+var elm$html$Html$Attributes$stringProperty = F2(
+	function (key, string) {
+		return A2(
+			_VirtualDom_property,
+			key,
+			elm$json$Json$Encode$string(string));
+	});
+var elm$html$Html$Attributes$href = function (url) {
+	return A2(
+		elm$html$Html$Attributes$stringProperty,
+		'href',
+		_VirtualDom_noJavaScriptUri(url));
+};
+var author$project$Main$history = A2(
+	elm$html$Html$section,
+	_List_Nil,
+	_List_fromArray(
+		[
+			elm$html$Html$text('I received my Master\'s degree from '),
+			A2(
+			elm$html$Html$a,
+			_List_fromArray(
+				[
+					elm$html$Html$Attributes$href('http://www.yl.is.s.u-tokyo.ac.jp/~yonezawa/home.html')
+				]),
+			_List_fromArray(
+				[
+					elm$html$Html$text('Akinori Yonezawa')
+				])),
+			elm$html$Html$text(' at University of Tokyo. '),
+			elm$html$Html$text('Then, I had experienced several years of studying eagerly with '),
+			A2(
+			elm$html$Html$a,
+			_List_fromArray(
+				[
+					elm$html$Html$Attributes$href('http://nicosia.is.s.u-tokyo.ac.jp/members/hagiya.html')
+				]),
+			_List_fromArray(
+				[
+					elm$html$Html$text('Masami Hagiya')
+				])),
+			elm$html$Html$text('. '),
+			elm$html$Html$text('Once I was a visiting scientist at MIT, where '),
+			A2(
+			elm$html$Html$a,
+			_List_fromArray(
+				[
+					elm$html$Html$Attributes$href('http://people.csail.mit.edu/dnj/')
+				]),
+			_List_fromArray(
+				[
+					elm$html$Html$text('Daniel Jackson')
+				])),
+			elm$html$Html$text(' and '),
+			A2(
+			elm$html$Html$a,
+			_List_fromArray(
+				[
+					elm$html$Html$Attributes$href('https://homes.cs.washington.edu/~mernst/')
+				]),
+			_List_fromArray(
+				[
+					elm$html$Html$text('Michael Ernst')
+				])),
+			elm$html$Html$text(' co-hosted me. '),
+			elm$html$Html$text('')
+		]));
+var elm$html$Html$div = _VirtualDom_node('div');
+var author$project$Main$email = function (addr) {
+	return A2(
+		elm$html$Html$div,
+		_List_Nil,
+		_List_fromArray(
+			[
+				elm$html$Html$text('Email: '),
+				A2(
+				elm$html$Html$a,
+				_List_fromArray(
+					[
+						elm$html$Html$Attributes$href('mailto:' + addr)
+					]),
+				_List_fromArray(
+					[
+						elm$html$Html$text(addr)
+					]))
+			]));
+};
+var author$project$Main$sns = F3(
+	function (header, base, account) {
+		return A2(
+			elm$html$Html$div,
+			_List_Nil,
+			_List_fromArray(
+				[
+					elm$html$Html$text(header),
+					A2(
+					elm$html$Html$a,
+					_List_fromArray(
+						[
+							elm$html$Html$Attributes$href(
+							_Utils_ap(base, account))
+						]),
+					_List_fromArray(
+						[
+							elm$html$Html$text('@' + account)
+						]))
+				]));
+	});
+var author$project$Main$github = A2(author$project$Main$sns, 'GitHub: ', 'https://github.com/');
+var author$project$Main$twitter = A2(author$project$Main$sns, 'Twitter: ', 'https://twitter.com/');
+var elm$html$Html$h1 = _VirtualDom_node('h1');
+var elm$html$Html$p = _VirtualDom_node('p');
+var author$project$Main$myself = A2(
+	elm$html$Html$section,
+	_List_Nil,
+	_List_fromArray(
+		[
+			A2(
+			elm$html$Html$h1,
+			_List_Nil,
+			_List_fromArray(
+				[
+					elm$html$Html$text('Takeo Imai (今井健男)')
+				])),
+			author$project$Main$email('takeo.bono@gmail.com'),
+			author$project$Main$github('bonotake'),
+			author$project$Main$twitter('bonotake'),
+			A2(
+			elm$html$Html$p,
+			_List_Nil,
+			_List_fromArray(
+				[
+					elm$html$Html$text('I\'m a software engineer and a researcher at '),
+					A2(
+					elm$html$Html$a,
+					_List_fromArray(
+						[
+							elm$html$Html$Attributes$href('https://idein.jp/')
+						]),
+					_List_fromArray(
+						[
+							elm$html$Html$text('Idein Inc.')
+						])),
+					elm$html$Html$text(', '),
+					elm$html$Html$text('where I\'m currently tackling with verification of deep learning models '),
+					elm$html$Html$text('and deep learning compilers (or \"graph compilers\"). '),
+					elm$html$Html$text('For the research, I\'m jointly working with '),
+					A2(
+					elm$html$Html$a,
+					_List_fromArray(
+						[
+							elm$html$Html$Attributes$href('https://group-mmm.org/~ichiro/')
+						]),
+					_List_fromArray(
+						[
+							elm$html$Html$text('Ichiro Hasuo')
+						])),
+					elm$html$Html$text(', '),
+					A2(
+					elm$html$Html$a,
+					_List_fromArray(
+						[
+							elm$html$Html$Attributes$href('http://research.nii.ac.jp/~f-ishikawa/en/')
+						]),
+					_List_fromArray(
+						[
+							elm$html$Html$text('Fuyuki Ishikawa')
+						])),
+					elm$html$Html$text(', '),
+					elm$html$Html$text('and other members in '),
+					A2(
+					elm$html$Html$a,
+					_List_fromArray(
+						[
+							elm$html$Html$Attributes$href('http://www.jst.go.jp/erato/hasuo/en/index.html')
+						]),
+					_List_fromArray(
+						[
+							elm$html$Html$text('Erato MMSD project')
+						])),
+					elm$html$Html$text('. '),
+					elm$html$Html$text('')
+				]))
+		]));
+var elm$html$Html$img = _VirtualDom_node('img');
+var elm$html$Html$Attributes$src = function (url) {
+	return A2(
+		elm$html$Html$Attributes$stringProperty,
+		'src',
+		_VirtualDom_noJavaScriptOrHtmlUri(url));
+};
+var author$project$Main$portrait = A2(
+	elm$html$Html$img,
+	_List_fromArray(
+		[
+			elm$html$Html$Attributes$src('images/self_portrait.JPG')
+		]),
+	_List_Nil);
+var elm$html$Html$h2 = _VirtualDom_node('h2');
 var author$project$Main$main = A2(
 	elm$html$Html$div,
 	_List_Nil,
 	_List_fromArray(
 		[
-			A2(
-			elm$html$Html$section,
-			_List_Nil,
-			_List_fromArray(
-				[
-					A2(
-					elm$html$Html$h1,
-					_List_Nil,
-					_List_fromArray(
-						[
-							elm$html$Html$text('Takeo Imai')
-						])),
-					A2(
-					elm$html$Html$p,
-					_List_Nil,
-					_List_fromArray(
-						[
-							elm$html$Html$text('I\'m a software engineer and a researcher in CS/SE.')
-						]))
-				])),
+			author$project$Main$portrait,
+			author$project$Main$myself,
+			author$project$Main$history,
 			A2(
 			elm$html$Html$section,
 			_List_Nil,
