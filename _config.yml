@@ -27,6 +27,9 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+# Don't show future posts
+future: false
+
 # Disqus Comments
 disqus:
   shortname: bonotake
