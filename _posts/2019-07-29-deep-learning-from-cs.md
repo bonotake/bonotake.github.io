@@ -241,7 +241,7 @@ In conventional software development, the specifications `P` and `Q` in `{P} c {
 ##### Acknowledgement
 I would like to thank Yusuke Endoh and Masahiro Sakai for helping to correct this sentence and giving valuable comments on the content.
 
-### Reference
+### Footnotes
 
 [^1]: [https://medium.com/&#64;karpathy/software-2-0-a64152b37c35](https://medium.com/&#64;karpathy/software-2-0-a64152b37c35 )
 
