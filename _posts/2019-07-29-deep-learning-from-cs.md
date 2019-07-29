@@ -10,7 +10,7 @@ mathjax: true
 ---
 
 > Note: This is a translation of my Japanese article "計算機科学から見たディープラーニング" in a Japanese technical magazine 
-    ["n-monthly LambdaNote Vol.1 No.2"](https://medium.com/r/?url=https%3A%2F%2Fwww.lambdanote.com%2Fcollections%2Ffrontpage%2Fproducts%2Fnmonthly-vol-1-no-2-2019-ebook>).
+    ["n-monthly LambdaNote Vol.1 No.2"](https://www.lambdanote.com/collections/frontpage/products/nmonthly-vol-1-no-2-2019-ebook).
 
 It has been a few years since people reported that “deep learning is great.” Some readers may already be immersed in deep learning. Given the rise of deep learning, it is also said that it is now in the midst of the third AI boom, so now many people are involved in AI-related projects even though he/she is not familiar with deep learning.
 
