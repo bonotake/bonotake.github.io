@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Learning from the Perspective of Computer Science"
+title: "Deep Learning from a Perspective of Computer Science"
 date: 2019-07-29
 categories:
   - Deep Learning and CS
