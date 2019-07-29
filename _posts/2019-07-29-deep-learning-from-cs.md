@@ -253,4 +253,4 @@ I would like to thank Yusuke Endoh and Masahiro Sakai for helping to correct thi
 
 [^li]: Li, Z., Ma, X., Xu, C., & Cao, C. (2019). Structural Coverage Criteria for Neural Networks Could Be Misleading. In the 39th International Conference on Software Engineering: New Ideas and Emerging Results Track. Retrieved from [http://moon.nju.edu.cn/people/xiaoxingma/pubs/2019-ICSENIER-ZLi-Misleading.pdf](http://moon.nju.edu.cn/people/xiaoxingma/pubs/2019-ICSENIER-ZLi-Misleading.pdf).
 
-[^5]: For the problem that human recognition error rate is 5.1%, [Microsoft Research](https://arxiv.org/abs/1502.01852) achieved 4.9% in February 2015 and [Google](https://arxiv.org/abs/1502.03167) achieved 4.8% in March 2015.
+[^5]: For a problem where human recognition error rate is 5.1%, [Microsoft Research](https://arxiv.org/abs/1502.01852) achieved 4.9% in February 2015 and [Google](https://arxiv.org/abs/1502.03167) achieved 4.8% in March 2015.
