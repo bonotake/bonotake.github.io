@@ -8,6 +8,10 @@ layout: default
 <div class="content">
   {% include post-meta.html post=page %}
 
+  {% if page.mathjax  %}
+    <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+  {% endif %}
+  
   <div class="post-body">
     {{ content }}
     {% include post-tags.html post=page %}
