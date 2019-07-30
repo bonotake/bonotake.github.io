@@ -8,7 +8,8 @@ sidebar_link: true
 Email: [takeo.bono@gmail.com](mailto:takeo.bono@gmail.com)  
 GitHub: [@bonotake](https://github.com/bonotake)  
 Twitter: [@bonotake](https://twitter.com/bonotake)  
-LikedIn: [@takeo-imai-57985216](https://www.linkedin.com/in/takeo-imai-57985216)  
+LinkedIn: [@takeo-imai-57985216](https://www.linkedin.com/in/takeo-imai-57985216)  
+researchmap: [bonotake](https://researchmap.jp/bonotake/?lang=english)
 
 I'm a software engineer and a researcher at [Idein Inc.](https://idein.jp/),
  where I'm currently tackling with verification of deep learning models and deep learning compilers (or "graph compilers").  
@@ -20,9 +21,8 @@ I received my Master's degree from [Akinori Yonezawa](http://www.yl.is.s.u-tokyo
 Deep learning, formal methods, programming languages, maths, and logics.
 
 ### Publications
-Complete list: [researchmap](https://researchmap.jp/bonotake/?lang=english)
+The followiing list is an excerpt (all in Japanese).
 
-#### Excerpt (All in Japanese)
 - An Improvement of Quasi-weakest Precondition Inference using Fast MCS Enumeration
   - IMAI Takeo, SAKAI Masahiro, HAGIYA Masami
   - Computer Software   32(4) 4_161-4_175   2015
