@@ -12,7 +12,7 @@ mathjax: true
 > Note: This is a translation of my Japanese article "計算機科学から見たディープラーニング" in a Japanese technical magazine 
     ["n-monthly LambdaNote Vol.1 No.2"](https://www.lambdanote.com/collections/frontpage/products/nmonthly-vol-1-no-2-2019-ebook).
 
-It has been a few years since people reported that “deep learning is great.” Some readers may already be immersed in deep learning. Given the rise of deep learning, it is also said that it is now in the midst of the third AI boom, so now many people are involved in AI-related projects even though he/she is not familiar with deep learning.
+It has been a few years since people began to say that “deep learning is great.” Some readers may already be immersed in deep learning. Given the rise of deep learning, it is also said that it is now in the midst of the third AI boom, so now many people are involved in AI-related projects even though he/she is not familiar with deep learning.
 
 The boom will fade out someday. However, the deep learning behind the current AI boom has already been implemented in many applications and has achieved remarkable results in numerous application areas. In image recognition, in particular, it has become beyond human accuracy. Therefore, even if the AI ​​boom goes away, deep learning technology itself will be incorporated into many of the software in the world, and it will continue to be used as one of the techniques familiar to our lives.
 
