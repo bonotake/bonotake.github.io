@@ -31,6 +31,9 @@ plugins:
 # Don't show future posts
 future: false
 
+# Timezone
+timezone: Asia/Tokyo
+
 # Disqus Comments
 disqus:
   shortname: bonotake
