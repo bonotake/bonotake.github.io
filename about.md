@@ -21,7 +21,8 @@ I received my Master's degree from [Akinori Yonezawa](http://www.yl.is.s.u-tokyo
 Deep learning, formal methods, programming languages, maths, and logics.
 
 ### Publications
-The followiing list is an excerpt (all in Japanese).
+
+#### Journal papers
 
 - An Improvement of Quasi-weakest Precondition Inference using Fast MCS Enumeration
   - IMAI Takeo, SAKAI Masahiro, HAGIYA Masami
