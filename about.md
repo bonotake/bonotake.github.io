@@ -23,6 +23,7 @@ Deep learning, formal methods, programming languages, maths, and logics.
 ### Publications
 
 #### Journal papers
+All are in Japanese.
 
 - An Improvement of Quasi-weakest Precondition Inference using Fast MCS Enumeration
   - IMAI Takeo, SAKAI Masahiro, HAGIYA Masami
@@ -38,3 +39,5 @@ Deep learning, formal methods, programming languages, maths, and logics.
 
 ### Achievements
 - Sep 2015: Research Paper Award, Japan Society for Software Science and Technology
+- Jul 2015: [Knuth Reward Check](https://en.wikipedia.org/wiki/Knuth_reward_check) 0x$1.00
+  - ![Knuth Reward Check](/assets/images/knuth_check.png)
