@@ -18,7 +18,7 @@ This post is an introduction to the talk presented by Masami, who specializes in
 This is a description of conventional Hoare triple.
 > ![Conventional Hoare triple](/assets/images/hagiya_triple/hoare_triple.png)
 
-For the triple consisting of the precondition `P`, the program `c` and the postcondition `Q`, a couple `(i, o)` comes out, which is a test case.
+For the triple consisting of the precondition `P`, the program `c` and the postcondition `Q`, a pair `(i, o)` comes out, which is a test case.
 The `i` is an input and `o` is a test oracle corresponds to the input.
 `i` satisfies `P`, and `(i, o)` satisfies `Q`.
 
