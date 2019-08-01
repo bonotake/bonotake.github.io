@@ -28,7 +28,7 @@ What I wrote above is about traditional software, but **[Software 2.0](https://m
 
 This composition is exactly what I wrote in [the last post](https://bonotake.github.io/deep%20learning%20and%20cs/2019/07/29/deep-learning-from-cs.html). (That's why he named it after me. I'm a bit shy to write this name...)
 
-It is the point that this employs `{P}[c]{Q}` instead of `{P}c{Q} `, and `[c]` in the middle is not a program but a program schema (≒ a set of programs that meet some requirements). In deep learning, this corresponds to a neural network architecture.  
+It is the point that this employs `{P}[c]{Q}` instead of `{P}c{Q} `, and `[c]` in the middle is not a program but a program schema ($$\approx$$ a set of programs that meet some requirements). In deep learning, this corresponds to a neural network architecture.  
 And further, there is a trainer `t`, which will automatically search for and output an optimal program `c`  when `t` takes a test set `{(i, o)}`.
 
 ## Hagiya triple
