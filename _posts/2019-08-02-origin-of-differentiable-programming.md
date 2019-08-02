@@ -51,4 +51,4 @@ So, as far as I investigated, Chris Olah was the first person who gave the idea 
 
 
 #### Acknowledgment
-Special thanks to Gordon Plotkin and Chris Olah for answering my rude questions for my wrighting this post.
+Special thanks to Gordon Plotkin and Chris Olah for kindly answering my rude questions for my wrighting this post.
