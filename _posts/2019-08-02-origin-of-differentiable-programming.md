@@ -8,7 +8,7 @@ tags:
   - DL and CS
 mathjax: true
 ---
-One of the factors that deep Learning is so popular today is that frameworks such as TensorFlow and PyTorch are very useful. a neural net design, training, and inference such as classification are very easy to do using the frameworks.
+One of the factors that deep Learning is so popular today is that frameworks such as TensorFlow and PyTorch are very useful. A neural net design, training, and inference such as classification are very easy to do using the frameworks.
 
 Those who use it normally would regard these frameworks as "tools" or "libraries". But in fact, _these are programming languages._ More precisely, all deep learning frameworks can be considered as DSLs (Domain-Specific Languages) for deep learning computations. This DSL is usually embedded in another general-purpose language ​​such as Python.
 
