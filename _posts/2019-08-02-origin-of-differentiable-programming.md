@@ -16,7 +16,7 @@ The feature common to these DSLs is *differentiability*: A program written in th
 
 Once I met a web page that wrote _"differentiable programming language"_ somewhere on the net. I do not remember exactly when it was or which site, but I remember it was around 2017.
 
-After that, Yann LeCun, one of deep Learning's fathers who won the Turing Award this year, posted [this post](https://www.facebook.com/yann.lecun/posts/10155003011462143) on Faebook, on January 7, 2018.
+After that, Yann LeCun, one of deep Learning's fathers who won the Turing Award this year, posted [this post](https://www.facebook.com/yann.lecun/posts/10155003011462143) on Facebook, on January 7, 2018.
 > OK, Deep Learning has outlived its usefulness as a buzz-phrase.  
 > Deep Learning est mort. Vive Differentiable Programming!
 
