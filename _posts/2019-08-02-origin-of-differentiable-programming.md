@@ -43,12 +43,24 @@ By the way, Yann LeCun had commented on Chris's post. So he has at least read it
 Then in 2016, Atılım Güneş Baydin had [a talk titled "Differentiable Programming"](https://www.cs.nuim.ie/~gunes/files/Baydin-MSR-Slides-20160201.pdf). Baydin used the phrase "differentiable programming" many times while referring to Chris's.
 
 Furthermore, in this talk, he also referred to [David Dalrymple's essay](http://edge.org/response-detail/26794), which also used the phrase "differentiable programming" and wrote that neural networks and functional programs are similar.
-I wanted to ask him the origin of his idea, but I could only find his Twitter account... so I still don't know if I can hear the details.
+~~I wanted to ask him the origin of his idea, but I could only find his Twitter account... so I still don't know if I can hear the details.~~  
+Once I published this post, I got in touch with Dalrymple. I was able to listen to various stories but he gave me the following testimony about this matter.
 
-Baydin also wrote [a survey paper](http://jmlr.org/papers/volume18/17-468/17-468.pdf) in 2018, which says Chris Olah, David Dalrymple, and Yann LeCun are the proponents of "differentiable programming".
+> I also have a strong reason to believe LeCun read my essay before popularizing the perspective, and I think it was a substantial influence. But I'd bet LeCun also read Olah's blog already so I t want to take much credit, except for streamlining the phrase by removing the word "functional."
 
-So, as far as I investigated, Chris Olah was the first person who gave the idea and the phrase, and David Dalrymple might have thought about this independently. Although Yann LeCun is not of the origin, it is undoubtedly his credit for making this idea very popular.
+When I asked if I would like to publish the testimonials on my blog, after some indecision, he asked me to include the following comments.
+
+> I cited Olah's blog in the manuscript I sent to [EDGE.org](http://EDGE.org), but the editors removed the citation with references to outside works are against the editorial policy of [EDGE.org](http://EDGE.org) (which prioritizes self-containedness over other intellectuals like giving credits where credits is due). Removing the citation then made it seemingly implicit claiming novelty in the essay
+
+I respect him trying to be sincere.
+
+By the way, Baydin also wrote [a survey paper](http://jmlr.org/papers/volume18/17-468/17-468.pdf) in 2018, which says Chris Olah, David Dalrymple, and Yann LeCun are the proponents of "differentiable programming".
+
+So, as far as I investigated, Chris Olah was the first person who gave the idea, and David Dalrymple gave the phrase "differentiable programming." Although Yann LeCun is not of the origin, it is undoubtedly his credit for making this idea very popular.
 
 
 #### Acknowledgment
-Special thanks to Gordon Plotkin and Chris Olah for kindly answering my rude questions for my wrighting this post.
+Special thanks to Gordon Plotkin, Chris Olah and David Dalrymple for kindly answering my rude questions for my wrighting this post.
+
+#### Note on Aug 3
+I added and revised some parts of this post according to an additional testimony from David Dalrymple.
