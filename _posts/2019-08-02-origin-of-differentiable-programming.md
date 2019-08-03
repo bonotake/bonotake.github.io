@@ -44,7 +44,7 @@ Then in 2016, Atılım Güneş Baydin had [a talk titled "Differentiable Program
 
 Furthermore, in this talk, he also referred to [David Dalrymple's essay](http://edge.org/response-detail/26794), which also used the phrase "differentiable programming" and wrote that neural networks and functional programs are similar.
 ~~I wanted to ask him the origin of his idea, but I could only find his Twitter account... so I still don't know if I can hear the details.~~  
-Once I published this post, I got in touch with Dalrymple. I was able to listen to various stories but he gave me the following testimony about this matter.
+Just after I published this post, I got in touch with Dalrymple. I was able to listen to various stories but he gave me the following testimony about this matter.
 
 > I also have a strong reason to believe LeCun read my essay before popularizing the perspective, and I think it was a substantial influence. But I'd bet LeCun also read Olah's blog already so I t want to take much credit, except for streamlining the phrase by removing the word "functional."
 
