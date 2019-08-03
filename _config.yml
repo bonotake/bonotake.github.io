@@ -38,7 +38,7 @@ timezone: Asia/Tokyo
 disqus:
   shortname: bonotake
 
-google_analytics: UA-24159387-1
+google_analytics: UA-24159387-2
 
 # Sidebar link settings
 sidebar_home_link:  true
