@@ -48,7 +48,7 @@ Just after I published this post, I got in touch with Dalrymple. I was able to l
 
 > I also have a strong reason to believe LeCun read my essay before popularizing the perspective, and I think it was a substantial influence. But I'd bet LeCun also read Olah's blog already so I t want to take much credit, except for streamlining the phrase by removing the word "functional."
 
-When I asked if I would like to publish the testimonials on my blog, after some indecision, he asked me to include the following comments.
+When I asked if I can publish the testimonials on my blog, after some indecision, he asked me to include the following comments.
 
 > I cited Olah's blog in the manuscript I sent to [EDGE.org](http://EDGE.org), but the editors removed the citation with references to outside works are against the editorial policy of [EDGE.org](http://EDGE.org) (which prioritizes self-containedness over other intellectuals like giving credits where credits is due). Removing the citation then made it seemingly implicit claiming novelty in the essay
 
