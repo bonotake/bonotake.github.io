@@ -32,11 +32,11 @@ Prof. Plotkin said he first learned of this idea from [Chris Olah's blog post](h
 In this post, the phrase "differentiable *functional* programming language" appears some times.
 
 I could not find out any literature using words like "differentiable programming" before the post.
-I sent Olah an email that asks if there was anyone she referred to. The reply was the following:
+I sent Olah an email that asks if there was anyone he referred to. The reply was the following:
 
 > I'm not aware of any consideration of "differentiable programming" exactly prior to my post, although it's possible there are things I am unaware of.  
 >  I do think there are similar ideas floating around. For example, Leon Bottou has a line in [this paper](https://arxiv.org/pdf/1102.1808v3.pdf) drawing analogues between neural nets and list manipulation in LISP.  
-(Note: she approved I post her reply.)
+(Note: he approved I post his reply.)
 
 By the way, Yann LeCun had commented on Olah's post. So he has at least read it.
 
