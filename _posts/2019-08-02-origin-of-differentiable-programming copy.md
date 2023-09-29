@@ -40,7 +40,7 @@ I sent Olah an email that asks if there was anyone he referred to. The reply was
 
 By the way, Yann LeCun had commented on Olah's post. So he has at least read it.
 
-Then in 2016, Atılım Güneş Baydin had [a talk titled "Differentiable Programming"](https://www.cs.nuim.ie/~gunes/files/Baydin-MSR-Slides-20160201.pdf). Baydin used the phrase "differentiable programming" many times while referring to Olah's.
+Then in 2016, Atılım Güneş Baydin had [a talk titled "Differentiable Programming"](https://gbaydin.github.io/assets/pdf/slides-baydin-differentiable-programming-msrc16.pdf). Baydin used the phrase "differentiable programming" many times while referring to Olah's.
 
 Furthermore, in this talk, he also referred to [David Dalrymple's essay](http://edge.org/response-detail/26794), which also used the phrase "differentiable programming" and wrote that neural networks and functional programs are similar.
 ~~I wanted to ask him the origin of his idea, but I could only find his Twitter account... so I still don't know if I can hear the details.~~  
